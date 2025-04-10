@@ -26,6 +26,10 @@
 
 8)Create 2 JavaScript files. Import one file into another and access a function to say Hello to user.
    LINK => curl -k https://cse-f.github.io/fsd/eight.js
+
+9)Write a JavaScript console program to find absolute value of a given number using async/await.
+   LINK => curl -k https://cse-f.github.io/fsd/nine.js
+   
   
 
 
