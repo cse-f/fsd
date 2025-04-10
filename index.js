@@ -33,7 +33,7 @@
 10)Write a JavaScript console program to find sum of digits of a given number using async/await.
    LINK => curl -k https://cse-f.github.io/fsd/ten.js
 
-11.	Write NodeJS program to implement the following using fs module:
+11)Write NodeJS program to implement the following using fs module:
     1. Deleting file
     2. Creating and Deleting directory
     3. Deleting file within a directory
@@ -41,6 +41,10 @@
     5. creating a directory and writing the data to the file within the directory
     6. Create a server that listens to client requests using http module
    LINK => curl -k https://cse-f.github.io/fsd/eleven.js
+
+12)Write NodeJS program to implement os, and http module.
+   LINK => curl -k https://cse-f.github.io/fsd/twelve.js
+   
 
 
    
