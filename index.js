@@ -9,3 +9,19 @@
 
 4)Write a program to filter even numbers from an array using an arrow function.
    LINK => curl -k https://cse-f.github.io/fsd/fourth.js
+  
+5)Write an arrow function to check if a given string is a palindrome
+   LINK => curl -k https://cse-f.github.io/fsd/fifth.js
+
+6)Write a program to count the number of vowels in a string using an arrow function.
+   LINK => curl -k https://cse-f.github.io/fsd/sixth.js
+   
+7.	Write a JavaScript program to implement
+    •	Object Destructuring
+    •	Array Destructuring
+    •	Destructuring with renaming
+    •	Destructuring with function
+    •	Destructuring with Rest operator
+   LINK => curl -k https://cse-f.github.io/fsd/seventh.js
+
+
