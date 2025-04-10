@@ -16,12 +16,16 @@
 6)Write a program to count the number of vowels in a string using an arrow function.
    LINK => curl -k https://cse-f.github.io/fsd/sixth.js
    
-7.	Write a JavaScript program to implement
+7)Write a JavaScript program to implement
     •	Object Destructuring
     •	Array Destructuring
     •	Destructuring with renaming
     •	Destructuring with function
     •	Destructuring with Rest operator
    LINK => curl -k https://cse-f.github.io/fsd/seventh.js
+
+8)Create 2 JavaScript files. Import one file into another and access a function to say Hello to user.
+   LINK => curl -k https://cse-f.github.io/fsd/eight.js
+  
 
 
