@@ -63,6 +63,10 @@
 18)Write a node js program to serve the json page to the client
    LINK => curl -k https://cse-f.github.io/fsd/18.js
    
-  
+19)Demonstrate Basic routing in node
+   LINK => curl -k https://cse-f.github.io/fsd/19.js
+
+20)Create Express server listening requests at port 3000. Add different end points to provide access to the resources.
+   LINK => curl -k https://cse-f.github.io/fsd/20.js
 
 
