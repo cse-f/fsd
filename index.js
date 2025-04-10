@@ -29,6 +29,10 @@
 
 9)Write a JavaScript console program to find absolute value of a given number using async/await.
    LINK => curl -k https://cse-f.github.io/fsd/nine.js
+
+10)Write a JavaScript console program to find sum of digits of a given number using async/await.
+   LINK => curl -k https://cse-f.github.io/fsd/ten.js
+   
    
   
 
