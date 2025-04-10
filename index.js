@@ -44,6 +44,9 @@
 
 12)Write NodeJS program to implement os, and http module.
    LINK => curl -k https://cse-f.github.io/fsd/twelve.js
+
+13)Write a node js program to demonstrate events 
+   LINK => curl -k https://cse-f.github.io/fsd/13.js
    
 
 
