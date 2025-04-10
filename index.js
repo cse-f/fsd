@@ -47,6 +47,12 @@
 
 13)Write a node js program to demonstrate events 
    LINK => curl -k https://cse-f.github.io/fsd/13.js
+
+14)Write a node js program to demonstrate read and write streams
+   LINK => curl -k https://cse-f.github.io/fsd/14.js
+
+15)Write a node js program for reading and writing into file using pipes.
+   LINK => curl -k https://cse-f.github.io/fsd/15.js
    
 16)Write a node js program for reading the file and sending the contents as response to the client request.
    LINK => curl -k https://cse-f.github.io/fsd/16.js
