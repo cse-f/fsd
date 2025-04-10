@@ -2,5 +2,7 @@
   •	Double the values of each element in the array.
   •	Filter the doubled values to include only the numbers greater than 20.
   •	Return the resulting filtered array as output.
-  LINK => https://cse-f.github.io/fsd/second.js
+  LINK => curl -k https://cse-f.github.io/fsd/second.js
 
+2)Write a JavaScript program to calculate the sum of all elements in an array using an arrow function.
+  LINK => curl -k https://cse-f.github.io/fsd/third.js
