@@ -57,7 +57,11 @@
 16)Write a node js program for reading the file and sending the contents as response to the client request.
    LINK => curl -k https://cse-f.github.io/fsd/16.js
 
-   
+17)Write a node js program to serve the html page to the client.
+   LINK => curl -k https://cse-f.github.io/fsd/17.js
+
+18)Write a node js program to serve the json page to the client
+   LINK => curl -k https://cse-f.github.io/fsd/18.js
    
   
 
